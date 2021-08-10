@@ -1,5 +1,5 @@
 > # Message queuing
-#### So what is message queuing. Before we jump into this let us quickly know about what queues really are. So a queue is a line of things waiting to be processed or handled and they start from the beginning and processed in a sequential order. Which means that a thing( message particularly here) which is at the starting position would be handled first and followed by it the rest of the things. Now let us know about message queuing. Message queuing means communication between applications by sending messsages to each other. A message in  message queuing refers to the data transferred between the sender and receiver's application. A message queue provides an   asynchronous communications protocol which beasically is a system that puts a message onto a message queue and does not require an immediate response to continuing processing. The best example of ansynchronous communications is an e-mail. 
+ So what is message queuing. Before we jump into this let us quickly know about what queues really are. So a queue is a line of things waiting to be processed or handled and they start from the beginning and processed in a sequential order. Which means that a thing( message particularly here) which is at the starting position would be handled first and followed by it the rest of the things. Now let us know about message queuing. Message queuing means communication between applications by sending messsages to each other. A message in  message queuing refers to the data transferred between the sender and receiver's application. A message queue provides an   asynchronous communications protocol which beasically is a system that puts a message onto a message queue and does not require an immediate response to continuing processing. The best example of ansynchronous communications is an e-mail. 
 
  This model, known as asynchronous messaging prevents data loss and enables systems to continue to function if processes or connections fail. Now let us see the benefits of message queuing.
 
@@ -28,10 +28,10 @@ They also work across various range of applications such as IoT and transaction 
  An Enterprise Message Bus is a middleware which works behind the scenes to support application to application communication. In other words, it a tool used to distribute work among connected components of an application or applications. ESBs are designed to provide a uniform means of moving work, offering applications the ability to connect to the bus and subscribe to messages based on simple structural and business policy rules.  These solutions provide processes, protocols, and rules to facilitate secure data transfers and manage service-oriented applications. These tools can add new data and capabilities to existing enterprise applications. 
   
   ### Benefits of an enterprise service bus
-   ### . It makes it easy to change or add components.
-   ### . Provides a convinient place to enforce security, logging and monitoring.
-   ### . Can provide load balancing to improve performance.
-   ### . In case of component or resources fails, it provides fallover support too.
+   . It makes it easy to change or add components.
+   . Provides a convinient place to enforce security, logging and monitoring.
+   . Can provide load balancing to improve performance.
+   . In case of component or resources fails, it provides fallover support too.
 
 
 
