@@ -28,10 +28,10 @@ They also work across various range of applications such as IoT and transaction 
  An Enterprise Message Bus is a middleware which works behind the scenes to support application to application communication. In other words, it a tool used to distribute work among connected components of an application or applications. ESBs are designed to provide a uniform means of moving work, offering applications the ability to connect to the bus and subscribe to messages based on simple structural and business policy rules.  These solutions provide processes, protocols, and rules to facilitate secure data transfers and manage service-oriented applications. These tools can add new data and capabilities to existing enterprise applications. 
   
   ### Benefits of an enterprise service bus
-   . It makes it easy to change or add components.
-   . Provides a convinient place to enforce security, logging and monitoring.
-   . Can provide load balancing to improve performance.
-   . In case of component or resources fails, it provides fallover support too.
+   #### . It makes it easy to change or add components.
+   #### . Provides a convinient place to enforce security, logging and monitoring.
+   #### . Can provide load balancing to improve performance.
+  #### . In case of component or resources fails, it provides fallover support too.
 
 
 
