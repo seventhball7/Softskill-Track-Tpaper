@@ -57,10 +57,10 @@
 
   ### References:
 
-  CloudAMQP.com
+  [CloudAMQP](CloudAMQP.com)
 
-  aws.amazon.com
-
-  searchapparchitecture.techtarget.com
+  [AWS.AMAZON](aws.amazon.com)
+  
+  [TechTarget](searchapparchitecture.techtarget.com)
 
     
