@@ -37,23 +37,23 @@
       • In case of component or resources fails, it provides fall over support too.
 
   ### * Let us look at the top Enterprise Service Bus Software:
-    • IBM App ConnectTIBCO
+  • IBM App ConnectTIBCO
 
-    • Cloud Integration (including BusinessWorks and Scribe)
+  • Cloud Integration (including BusinessWorks and Scribe)
 
-    • Software AG webMethods
+  • Software AG webMethods
 
-    • Peregrine ConnectwebMethods Integration Server
+  • Peregrine ConnectwebMethods Integration Server
 
-    • Beats
+  • Beats
 
-    •Azure Service Bus
+  •Azure Service Bus
 
-    • Apache Camel
+  • Apache Camel
 
-    • NServiceBus
+  • NServiceBus
     
-    • IBM Cloud Pak for Integration
+  • IBM Cloud Pak for Integration
 
   ### References:
 
